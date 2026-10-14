@@ -48,6 +48,4 @@ tasktracker-projeto/
     └── main.py
 ```
 
-## Próximos passos (Fase 3)
 
-Empacotamento, containerização com Docker, testes e deploy.
