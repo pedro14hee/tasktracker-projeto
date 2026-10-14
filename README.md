@@ -31,7 +31,7 @@ O TaskTracker centraliza o cadastro e a visualização das tarefas.
 ## Como executar
 
 ```bash
-git clone https://github.com/SEU-USUARIO/tasktracker-projeto.git
+git clone https://github.com/pedro14hee/tasktracker-projeto.git
 cd tasktracker-projeto
 python src/main.py
 ```
