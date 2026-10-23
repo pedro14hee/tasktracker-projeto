@@ -47,5 +47,20 @@ tasktracker-projeto/
 └── src/
     └── main.py
 ```
+## Executando com Docker
 
+**Como construir a imagem:**
+```bash
+docker build -t tasktracker .
+```
+
+**Como rodar o container em modo isolado:**
+```bash
+docker run -it tasktracker
+```
+
+**Como rodar via orquestração (Recomendado):**
+```bash
+docker compose run tasktracker-app
+```
 
